@@ -1,5 +1,10 @@
 # Fast-Hasher (fhash)
 
+[![Release](https://github.com/Virace/fast-hasher/actions/workflows/release.yml/badge.svg)](https://github.com/Virace/fast-hasher/actions/workflows/release.yml)
+[![GitHub release](https://img.shields.io/github/v/release/Virace/fast-hasher)](https://github.com/Virace/fast-hasher/releases/latest)
+[![Go Version](https://img.shields.io/github/go-mod/go-version/Virace/fast-hasher)](https://go.dev/)
+[![License](https://img.shields.io/github/license/Virace/fast-hasher)](LICENSE)
+
 高性能批量文件校验 CLI 工具，支持多种哈希算法、并发处理和灵活的筛选器。
 
 ## 特性
